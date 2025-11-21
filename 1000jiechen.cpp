@@ -3,6 +3,8 @@
 #define MAX_NUM 1000
 #define STORE_SIZE  3000
 
+// git test
+
 int main(int argc, char* argv[])
 {
     // Initialize the result array (set all to 0 first, then set first element to 1)
