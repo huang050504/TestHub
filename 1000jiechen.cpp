@@ -56,6 +56,11 @@ int main(int argc, char* argv[])
     printf("\n");
     prinf("Hello World");
 
+    int a = 0;
+    prinf(a);
+
+
+
     // pause
     getchar();
     return 0;
