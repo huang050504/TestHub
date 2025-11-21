@@ -59,6 +59,10 @@ int main(int argc, char* argv[])
     int a = 0;
     prinf(a);
 
+    int b = 10;
+    prinf("\n");
+    prinf(a + b);
+
 
 
     // pause
