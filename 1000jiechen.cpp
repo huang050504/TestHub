@@ -54,7 +54,8 @@ int main(int argc, char* argv[])
         }
     }
     printf("\n");
-    
+    prinf("Hello World");
+
     // pause
     getchar();
     return 0;
