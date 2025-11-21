@@ -55,8 +55,6 @@ int main(int argc, char* argv[])
             printf("%d", result[i]);
         }
     }
-    printf("\n");
-    prinf("Hello World");
 
     int a = 0;
     prinf(a);
