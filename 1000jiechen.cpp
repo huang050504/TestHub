@@ -3,7 +3,7 @@
 #define MAX_NUM 1000
 #define STORE_SIZE  3000
 
-// git test
+// git test.
 
 int main(int argc, char* argv[])
 {
