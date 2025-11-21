@@ -63,6 +63,7 @@ int main(int argc, char* argv[])
     prinf("\n");
     prinf(a + b);
 
+    prinf("Creating a new branch is quick.ssss");
     prinf("hhhh");
 
     // pause
